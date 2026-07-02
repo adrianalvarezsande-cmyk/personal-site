@@ -12,7 +12,7 @@ const projects = [
     context: 'Academic Research Writing · AUC · May 2026',
     pdf: '/projects/algorithmic-collusion.pdf',
     description:
-      'A literature review on algorithmic pricing and tacit collusion — the idea that AI pricing systems can learn to sustain prices above competitive levels without any communication between the firms that deploy them. I tried to show that the learning mechanism, the market conditions that enable it, and the detection problem are not three separate issues but the same interlocking one. For my Capstone I want to go deeper on the detection side, because that\'s where the real gap in the literature is.',
+      'A literature review on algorithmic pricing and tacit collusion. The idea is that AI pricing systems can learn to sustain prices above competitive levels without any communication between the firms that deploy them. I tried to show that the learning mechanism, the market conditions that enable it, and the detection problem are not three separate issues but the same interlocking one. For my Capstone I want to go deeper on the detection side, because that\'s where the real gap in the literature is.',
   },
   {
     title: 'Europe\'s AI Regulation Problem',
@@ -26,14 +26,14 @@ const projects = [
     context: 'Data Ethics · AUC',
     pdf: '/projects/data-ethics-report.pdf',
     description:
-      'A report on how GDPR, CCPA, and China\'s PIPL affect the way machine learning systems get built. I started with the Meta fine as an entry point — a billion-euro penalty for what was essentially a routine engineering decision — and traced how these frameworks developed and what they actually require of developers in practice. The consent section compares how differently the three frameworks approach the same problem.',
+      'A report on how GDPR, CCPA, and China\'s PIPL affect the way machine learning systems get built. I started with the Meta fine as an entry point: a billion-euro penalty for what was essentially a routine engineering decision. From there I traced how these frameworks developed and what they actually require of developers in practice. The consent section compares how differently the three frameworks approach the same problem.',
   },
   {
     title: 'GPU Demand Growth and Semiconductor Shortages',
     context: 'Mathematical Methods · AUC',
     pdf: '/projects/gpu-semiconductors.pdf',
     description:
-      'A group project modeling NVIDIA\'s revenue growth using exponential functions and analyzing the semiconductor shortage during COVID-19. More quantitative than the others — we modeled demand curves, calculated growth rates, and built a forecast error model to show how badly the industry misjudged demand. A bit rougher, but it shows the kind of applied mathematics from the first year.',
+      'A group project modeling NVIDIA\'s revenue growth using exponential functions and analyzing the semiconductor shortage during COVID-19. More quantitative than the others. We modeled demand curves, calculated growth rates, and built a forecast error model to show how badly the industry misjudged demand. A bit rougher, but it shows the kind of applied mathematics from the first year.',
   },
 ]
 

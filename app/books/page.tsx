@@ -18,7 +18,7 @@ const books: Book[] = [
     title: 'Weapons of Math Destruction',
     originalTitle: 'Armas de destrucción matemática',
     author: "Cathy O'Neil",
-    note: "Read it in Spanish. Made me think differently about how algorithms aren't neutral — they reflect the priorities of whoever built them.",
+    note: "Read it in Spanish. Made me think differently about how algorithms aren't neutral. They reflect the priorities of whoever built them.",
   },
   {
     isbn: '0735211299',
@@ -43,7 +43,7 @@ const books: Book[] = [
     title: 'The Intelligent Investor',
     originalTitle: 'El inversor inteligente',
     author: 'Benjamin Graham',
-    note: 'Read it in Spanish. Dense but worth it — changed how I think about the difference between price and value.',
+    note: 'Read it in Spanish. Dense but worth it. Changed how I think about the difference between price and value.',
   },
   {
     isbn: '9781476708720',
@@ -59,7 +59,7 @@ const books: Book[] = [
     title: 'Rafa: My Story',
     originalTitle: 'Rafa, mi historia',
     author: 'Rafael Nadal',
-    note: "Read it in Spanish obviously. What stands out isn't the tennis — it's how much of elite performance is just refusing to stop.",
+    note: "Read it in Spanish obviously. What stands out isn't the tennis. It's how much of elite performance is just refusing to stop.",
   },
   {
     isbn: '9780553573404',

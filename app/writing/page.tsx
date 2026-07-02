@@ -5,7 +5,7 @@ import { WritingList } from '@/components/writing-list'
 export const metadata: Metadata = {
   title: 'Writing',
   description:
-    'Ideas, observations, and things I\'m working through — on AI, economics, technology, and more.',
+    'Ideas and notes on things I\'m working through. Mostly AI, economics, and technology.',
 }
 
 export default function WritingPage() {

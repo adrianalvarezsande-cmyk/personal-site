@@ -8,7 +8,7 @@ import { PageFade } from '@/components/page-fade'
 
 export const metadata: Metadata = {
   title: 'CV',
-  description: 'Adrián Álvarez — Finance & Technology student at VU Amsterdam / UvA.',
+  description: 'Finance & Technology student at VU Amsterdam and UvA. CV of Adrián Álvarez.',
 }
 
 export default function CVPage() {

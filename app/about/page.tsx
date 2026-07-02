@@ -40,17 +40,17 @@ export default function AboutPage() {
           I&apos;m <span className="font-semibold">Adrián Álvarez</span>. I study finance and technology at the VU Amsterdam
           and University of Amsterdam, as part of a joint honours programme between
           the two universities. I&apos;m originally from Spain, and moving abroad has
-          shaped how I see things — being surrounded by people from different
+          shaped how I see things. Being surrounded by people from different
           countries and disciplines has made me more comfortable with ambiguity and
           more curious about why systems behave the way they do.
         </p>
 
         <p>
           Most of what I think about sits somewhere between finance and
-          technology. I&apos;m not sure yet exactly where that leads — but the
+          technology. I&apos;m not sure yet exactly where that leads, but the
           more I study both, the more I find that&apos;s where the interesting
           problems are. How financial systems get built, how technology
-          changes them, and what that means in practice.
+          reshapes them, and what that means in practice.
         </p>
 
         <p>
@@ -72,7 +72,7 @@ export default function AboutPage() {
 
         <p>
           I&apos;m early in my career, and I try to be honest about that. This site
-          reflects where I actually am — not where I&apos;m trying to appear to be.
+          reflects where I actually am, not where I&apos;m trying to appear to be.
         </p>
       </div>
 
@@ -87,9 +87,9 @@ export default function AboutPage() {
         <div className="space-y-4 text-base text-ink">
           <p>
             <span className="italic">Finishing my third year at VU &amp; UvA.</span>{' '}
-            This summer I&apos;m founding GTM at Rebolt.ai, an early-stage AI startup —
-            mostly sales, mostly figuring things out as I go. Reading about fintech
-            and how technology is changing financial infrastructure.
+            This summer I&apos;m doing founding GTM at Rebolt.ai, an early-stage AI startup.
+            Mostly sales, mostly figuring things out as I go. Reading about fintech
+            and how technology is reshaping financial infrastructure.
           </p>
           <p className="flex items-center gap-6">
             <Link

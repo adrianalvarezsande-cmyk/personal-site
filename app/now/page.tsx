@@ -3,7 +3,7 @@ import { PageFade } from '@/components/page-fade'
 
 export const metadata: Metadata = {
   title: 'Now',
-  description: "What Adrián Álvarez is doing right now — updated periodically.",
+  description: "What Adrián Álvarez is doing right now. Updated periodically.",
 }
 
 export default function NowPage() {
