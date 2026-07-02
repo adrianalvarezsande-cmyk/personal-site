@@ -5,7 +5,6 @@ import Image from 'next/image'
 import { motion } from 'motion/react'
 import { TypewriterTagline } from '@/components/typewriter-tagline'
 import { AmsterdamWidget } from '@/components/amsterdam-widget'
-import { StatsRow } from '@/components/stats-row'
 
 const entries = [
   {
@@ -92,16 +91,6 @@ export default function Home() {
           <AmsterdamWidget />
         </motion.div>
       </section>
-
-      {/* Stats row — between hero and entry list */}
-      <motion.div
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ duration: 0.45, delay: 0.36, ease: 'easeOut' }}
-        className="mx-auto max-w-5xl px-6 sm:px-8 lg:px-12"
-      >
-        <StatsRow />
-      </motion.div>
 
       {/* Entry points — left-aligned */}
       <section className="mx-auto max-w-5xl px-6 pb-24 sm:px-8 sm:pb-32 lg:px-12">
