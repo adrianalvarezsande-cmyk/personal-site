@@ -6,7 +6,7 @@ import { PageFade } from '@/components/page-fade'
 export const metadata: Metadata = {
   title: 'About',
   description:
-    'Finance and technology student in Amsterdam. Interested in AI, digital markets, and how technology reshapes economic behavior.',
+    'Finance and technology student in Amsterdam, figuring out where the two meet.',
 }
 
 export default function AboutPage() {
@@ -46,11 +46,11 @@ export default function AboutPage() {
         </p>
 
         <p>
-          Most of what I think about sits at the intersection of technology,
-          economics, and artificial intelligence. Not the technical implementation
-          details, but the broader questions: how new technologies change market
-          structures, what they do to competition and incumbents, and how they
-          reshape the way businesses create and capture value.
+          Most of what I think about sits somewhere between finance and
+          technology. I&apos;m not sure yet exactly where that leads — but the
+          more I study both, the more I find that&apos;s where the interesting
+          problems are. How financial systems get built, how technology
+          changes them, and what that means in practice.
         </p>
 
         <p>
@@ -88,8 +88,8 @@ export default function AboutPage() {
           <p>
             <span className="italic">Finishing my third year at VU &amp; UvA.</span>{' '}
             This summer I&apos;m founding GTM at Rebolt.ai, an early-stage AI startup —
-            mostly sales, mostly figuring things out as I go. Reading about digital
-            market design and how AI changes who controls the matching layer in a market.
+            mostly sales, mostly figuring things out as I go. Reading about fintech
+            and how technology is changing financial infrastructure.
           </p>
           <p className="flex items-center gap-6">
             <Link

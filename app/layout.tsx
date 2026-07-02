@@ -19,11 +19,11 @@ export const metadata: Metadata = {
     template: '%s — Adrián Álvarez',
   },
   description:
-    'Finance and technology student in Amsterdam. Interested in AI, digital markets, and how technology reshapes economic behavior.',
+    'Finance and technology student in Amsterdam, figuring out where the two meet.',
   openGraph: {
     title: 'Adrián Álvarez',
     description:
-      'Finance and technology student in Amsterdam. Interested in AI, digital markets, and how technology reshapes economic behavior.',
+      'Finance and technology student in Amsterdam, figuring out where the two meet.',
     type: 'website',
     locale: 'en_US',
     siteName: 'Adrián Álvarez',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Adrián Álvarez',
     description:
-      'Finance and technology student in Amsterdam. Interested in AI, digital markets, and how technology reshapes economic behavior.',
+      'Finance and technology student in Amsterdam, figuring out where the two meet.',
   },
 }
 
