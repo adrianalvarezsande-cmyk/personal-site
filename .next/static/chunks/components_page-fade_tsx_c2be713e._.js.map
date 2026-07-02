@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/adrianalvarezsande/Desktop/personal-site/components/page-fade.tsx"],"sourcesContent":["'use client'\n\nimport { motion } from 'motion/react'\n\nexport function PageFade({ children }: { children: React.ReactNode }) {\n  return (\n    <motion.div\n      initial={{ opacity: 0, y: 12 }}\n      animate={{ opacity: 1, y: 0 }}\n      transition={{ duration: 0.45, ease: 'easeOut' }}\n    >\n      {children}\n    </motion.div>\n  )\n}\n"],"names":[],"mappings":";;;;;AAEA;AAFA;;;AAIO,SAAS,SAAS,KAA2C;QAA3C,EAAE,QAAQ,EAAiC,GAA3C;IACvB,qBACE,6LAAC,2KAAM,CAAC,GAAG;QACT,SAAS;YAAE,SAAS;YAAG,GAAG;QAAG;QAC7B,SAAS;YAAE,SAAS;YAAG,GAAG;QAAE;QAC5B,YAAY;YAAE,UAAU;YAAM,MAAM;QAAU;kBAE7C;;;;;;AAGP;KAVgB","debugId":null}}]
+}

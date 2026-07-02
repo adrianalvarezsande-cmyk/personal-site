@@ -1,0 +1,11 @@
+{
+  "pages": {
+    "/opengraph-image/route": [
+      "static/chunks/ee6377c8060aa9de.js",
+      "static/chunks/8505111142d2c383.js",
+      "static/chunks/8082ab48faca5ea1.js",
+      "static/chunks/235d6bf3a14b5b25.js",
+      "static/chunks/turbopack-0beb1fbeb3aa0f4a.js"
+    ]
+  }
+}

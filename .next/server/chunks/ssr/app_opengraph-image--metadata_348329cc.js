@@ -1,0 +1,3 @@
+module.exports=[86895,a=>{"use strict";a.s(["default",()=>d],86895),a.i(7997),a.i(99475);var b=a.i(52425);let c={alt:"Adrián Álvarez",contentType:"image/png",runtime:"edge",size:{width:1200,height:630}};async function d(a){let{__metadata_id__:d,...e}=await a.params,f=(0,b.fillMetadataSegment)("/",e,"opengraph-image"),{generateImageMetadata:g}=c;function h(a,b){let c={alt:a.alt,type:a.contentType||"image/png",url:f+(b?"/"+b:"")+"?7e3eb61b25b5a436"},{size:d}=a;return d&&(c.width=d.width,c.height=d.height),c}return g?(await g({params:e})).map((a,b)=>{let c=(a.id||b)+"";return h(a,c)}):[h(c,"")]}}];
+
+//# sourceMappingURL=app_opengraph-image--metadata_348329cc.js.map

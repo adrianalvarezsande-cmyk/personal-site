@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,81536,i=>{"use strict";i.s(["PageFade",()=>a]);var t=i.i(43476),e=i.i(32181);function a(i){let{children:a}=i;return(0,t.jsx)(e.motion.div,{initial:{opacity:0,y:12},animate:{opacity:1,y:0},transition:{duration:.45,ease:"easeOut"},children:a})}}]);

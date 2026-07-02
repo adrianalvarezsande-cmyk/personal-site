@@ -1,0 +1,73 @@
+---
+title: "On building in public"
+date: "2026-06-30"
+description: "A placeholder piece for testing the content system. Replace this with your first real piece of writing."
+---
+
+This is a sample piece. It exists to demonstrate the reading experience and show how different content elements render. Replace it with your first real piece whenever you're ready.
+
+## Headings and structure
+
+Second-level headings create natural sections within a piece. They use the title scale — large enough to orient, small enough not to shout.
+
+### A third-level heading
+
+Third-level headings are subtler — a weight shift rather than a size shift. Use them for fine-grained structure within a section, not as a replacement for good paragraph transitions.
+
+## Typography in body copy
+
+Body text is set at 1rem with a line-height of 1.75. That's generous — intentionally so. Reading should feel unhurried.
+
+**Bold** is used sparingly, for genuine emphasis. *Italic* for titles, terms being introduced, or light stress. Neither should appear more than once or twice per section or they lose meaning.
+
+Links in body copy are [underlined](#) in the conventional sense — not just colored differently. This matters for readability and accessibility: color alone is not a reliable signal.
+
+## Lists
+
+An unordered list:
+
+- Ideas I'm exploring
+- Things I'm learning
+- Observations and curiosities
+
+An ordered list, for when sequence matters:
+
+1. Understand the problem
+2. Understand the constraints
+3. Find the simplest solution that fits both
+
+## Blockquotes
+
+> The goal is not to be interesting to everyone, but to be genuinely useful to someone.
+
+Blockquotes are set in a muted tone with a thin left border. Use them for external references, or for pulling out a sentence that deserves more space than a paragraph can give it.
+
+## Code
+
+Inline `code` has a subtle background — readable without pulling too much visual weight.
+
+Code blocks use syntax highlighting:
+
+```javascript
+// A short example
+function readingTime(content) {
+  const words = content.trim().split(/\s+/).length
+  return Math.max(1, Math.ceil(words / 200))
+}
+```
+
+```python
+# Python too
+def format_date(date_str: str) -> str:
+    from datetime import datetime
+    dt = datetime.fromisoformat(date_str)
+    return dt.strftime("%b %Y")
+```
+
+## A horizontal rule marks a shift
+
+---
+
+After the rule, content continues. The rule signals a change in subject or a pause in the piece — more deliberate than a paragraph break, less abrupt than a new section.
+
+This sample covers most of what the content system supports. Delete it and start writing.
