@@ -4,9 +4,10 @@ import { Fragment, useEffect, useRef, useState } from 'react'
 
 // STATS: Update these values
 const stats = [
-  { value: 0, label: 'courses' },
-  { value: 0, label: 'years coaching' },
-  { value: 0, label: '[third stat]' },
+  { value: 20, label: 'courses' },
+  { value: 4, label: 'years coaching' },
+  { value: 3, label: 'countries' },
+  { value: 6, label: 'years old, first serve' },
 ]
 
 function easeOut(t: number): number {
