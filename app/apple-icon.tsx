@@ -9,25 +9,26 @@ export default function AppleIcon() {
     (
       <div
         style={{
-          background: '#111111',
+          background: '#F9F9F7',
           width: '100%',
           height: '100%',
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'center',
-          borderRadius: '40px',
+          borderRadius: 40,
         }}
       >
         <span
           style={{
-            color: '#F9F9F7',
-            fontSize: '72px',
-            fontWeight: '500',
-            letterSpacing: '-0.04em',
+            color: '#111111',
+            fontSize: 110,
+            fontWeight: 600,
+            letterSpacing: '-0.03em',
             fontFamily: 'sans-serif',
+            lineHeight: 1,
           }}
         >
-          AA
+          A
         </span>
       </div>
     ),
