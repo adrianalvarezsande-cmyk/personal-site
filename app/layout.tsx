@@ -47,6 +47,9 @@ export const metadata: Metadata = {
       'Finance and technology student at Amsterdam University College. From A Coruña, Spain.',
     creator: '@adriansadee_',
   },
+  verification: {
+    google: 'Ty1fD44mc4cuhy0NA7c6gX1rpqxwU0uKw1iYYUR2Wkw',
+  },
   robots: {
     index: true,
     follow: true,
