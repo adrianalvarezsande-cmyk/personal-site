@@ -48,7 +48,7 @@ export default function Home() {
         >
           <Image
             src="/images/Adrian.png"
-            alt="Adrián Álvarez"
+            alt="Adrián Álvarez Sande"
             width={200}
             height={200}
             className="rounded-3xl object-cover object-top ring-1 ring-ink/8"
@@ -69,7 +69,7 @@ export default function Home() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.45, delay: 0.1, ease: 'easeOut' }}
         >
-          Adrián Álvarez
+          Adrián Álvarez Sande
         </motion.h1>
 
         {/* Typewriter tagline — cycling, fixed height, blinking cursor */}

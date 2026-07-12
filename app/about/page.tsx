@@ -22,7 +22,7 @@ export default function AboutPage() {
       <div className="mb-12 flex flex-col gap-6">
         <Image
           src="/images/Adrian.png"
-          alt="Adrián Álvarez"
+          alt="Adrián Álvarez Sande"
           width={300}
           height={300}
           className="rounded-full grayscale ring-1 ring-line object-cover transition-transform duration-300 hover:scale-[1.02]"
@@ -37,7 +37,7 @@ export default function AboutPage() {
       {/* Essay */}
       <div className="max-w-prose space-y-6 text-base text-ink">
         <p>
-          I&apos;m <span className="font-semibold">Adrián Álvarez</span>. I study finance and technology at the VU Amsterdam
+          I&apos;m <span className="font-semibold">Adrián Álvarez Sande</span>. I study finance and technology at the VU Amsterdam
           and University of Amsterdam, as part of a joint honours programme between
           the two universities. I&apos;m originally from Spain, and moving abroad has
           shaped how I see things. Being surrounded by people from different

@@ -102,7 +102,7 @@ export function Nav() {
           href="/"
           className="text-small font-medium text-ink transition-opacity duration-150 hover:opacity-60 outline-none focus-visible:ring-2 focus-visible:ring-ink/30 rounded-sm"
         >
-          Adrián Álvarez
+          Adrián Álvarez Sande
         </Link>
 
         <div className="flex items-center gap-2 sm:gap-5">

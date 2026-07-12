@@ -3,7 +3,7 @@ import { PageFade } from '@/components/page-fade'
 
 export const metadata: Metadata = {
   title: 'Projects',
-  description: 'Academic work and research by Adrián Álvarez.',
+  description: 'Academic work and research by Adrián Álvarez Sande.',
 }
 
 const projects = [
